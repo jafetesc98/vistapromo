@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,a as s}from"./index.fa63ad44.js";const c={},a={class:"text-center py-24 text-gray-500 dark:text-slate-400"},n=s("p",null,"Sin datos registrados",-1),r=[n];function _(d,i){return e(),o("div",a,r)}const l=t(c,[["render",_]]);export{l as C};
