@@ -1,0 +1,1 @@
+const c=async function(e="",o={}){return await fetch(e,{method:"POST",mode:"cors",cache:"no-cache",credentials:"same-origin",headers:{"Content-Type":"application/json"},redirect:"follow",referrerPolicy:"no-referrer",body:JSON.stringify(o)}).catch(function(n){return console.log("Hubo un problema con la petici\xF3n Fetch:"+n.message),null})};export{c as p};
